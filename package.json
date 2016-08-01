@@ -1,13 +1,14 @@
 {
   "name": "timestamp-microservice",
   "version": "0.0.0",
-  "description": "A chat example to showcase how to use `socket.io` with a static `express` server with `async` for control flow.",
+  "description": "API Basejump: Timestamp microservices",
   "main": "server.js",
-  "author": "Mostafa Eweda <mo.eweda@gmail.com>",
+  "author": "Ajinkya Deshmukh <ajinkyadeshmukh9@gmail.com>",
   "dependencies": {
-    "async": "~0.2.8",
-    "express": "^3.2.6",
-    "socket.io": "~0.9.14"
+    "express": "3.2.9",
+    "path":"0.12.7",
+    "moment":"2.14.1",
+    "morgan":"1.7.0"
   },
   "scripts": {
     "start": "node server.js"
