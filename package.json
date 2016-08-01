@@ -13,6 +13,7 @@
   "scripts": {
     "start": "node server.js"
   },
+  "_nodeVersion": "6.1.0",
   "devDependencies": {},
   "license": "ISC"
 }
