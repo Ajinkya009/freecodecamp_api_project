@@ -1,6 +1,6 @@
 {
   "name": "timestamp-microservice",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "API Basejump: Timestamp microservices",
   "main": "server.js",
   "author": "Ajinkya Deshmukh <ajinkyadeshmukh9@gmail.com>",
